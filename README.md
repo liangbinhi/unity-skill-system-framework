@@ -11,7 +11,7 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 
 ![Skill Demo](demo.gif)
 
-<img width="1440" height="747" alt="image" src="https://github.com/user-attachments/assets/5f0668d9-a3fb-4240-b1dc-1161fedafc12" />
+
 
 
 ---
@@ -64,6 +64,8 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 技能执行流程如下：
 
 `Idle -> Cast -> Effect -> Cooldown`
+<img width="1320" height="760" alt="image" src="https://github.com/user-attachments/assets/247c2232-912b-4b94-b201-e0120595a9ed" />
+
 
 支持以下能力：
 
