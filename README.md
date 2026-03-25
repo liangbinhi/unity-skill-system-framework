@@ -82,6 +82,9 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 
 `ISkillEffect`
 
+<img width="466" height="539" alt="image" src="https://github.com/user-attachments/assets/043fc3f6-591d-4a8e-a401-4839f67f6b2d" />
+
+
 在此基础上实现多种技能效果模块，例如：
 
 - DamageEffect（伤害效果）
@@ -90,7 +93,8 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 - HealEffect（治疗效果）
 
 通过接口与模块化设计，支持后续快速扩展新的技能效果类型。
-<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/0b05fbc5-e59a-460d-ba10-b3f2d0d2574f" />
+
+
 
 ---
 
