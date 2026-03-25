@@ -90,6 +90,7 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 - HealEffect（治疗效果）
 
 通过接口与模块化设计，支持后续快速扩展新的技能效果类型。
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/0b05fbc5-e59a-460d-ba10-b3f2d0d2574f" />
 
 ---
 
