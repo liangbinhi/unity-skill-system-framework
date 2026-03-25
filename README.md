@@ -9,7 +9,7 @@ A Unity-based data-driven skill system and combat framework.  Includes state mac
 
 该项目主要用于练习 Unity 游戏开发中的系统设计能力、代码解耦能力与性能优化能力，适用于 ARPG 类游戏的技能系统实现。
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e6a8cf8b-1475-4f4c-9fa6-c822b12e5f26" />
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/e6a8cf8b-1475-4f4c-9fa6-c822b12e5f26" />
 
 ---
 
